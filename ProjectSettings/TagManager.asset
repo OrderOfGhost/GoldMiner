@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TuiQua
+  - ChuotVang
+  - VangVua
+  - VangTo
+  - VangSieuTo
+  - DeliverItem
+  - KimCuong1
+  - KimCuong2
+  - KimCuong3
+  - ChuotKimCuong1
+  - ChuotKimCuong1kc
+  - ChuotKimCuong2
+  - ChuotKimCuong2kc
+  - ChuotKimCuong3
+  - ChuotKimCuong3kc
+  - ChuotVangkc
+  - ChuotThuong
+  - Da
+  - Hook
+  - Map
+  - Map2
+  - DeliverItem2
+  - Hook2
+  - PlayerWin
+  - TextWin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Vang
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
